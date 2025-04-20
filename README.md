@@ -7,21 +7,19 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently doing **Bachelor in Theoretical Physics**
 
-- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 👨‍💻 Explore my projects at [jeremy-tran.vercel.app](https://jeremy-tran.vercel.app/)
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
+- 📫 Reach me at **knnnguyen21012003@gmail.com**
 
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+- 📄 Learn more about my experiences at [jeremy-tran.vercel.app](https://jeremy-tran.vercel.app/)
 
 
 ### Connect with me 🔗 :
 <br>
 <p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
+<a href="mailto:knnnguyen21012003@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ahmadpiracha" target="_blank">
