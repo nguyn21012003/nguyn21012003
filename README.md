@@ -45,5 +45,5 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
 </a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyn21012003&hide_progress=true)
 
