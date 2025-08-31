@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently doing **Bachelor in Theoretical Physics**
 
-- 👨‍💻 Explore my projects at [jeremy-tran.vercel.app](https://jeremy-tran.vercel.app/)
+- 👨‍💻 Explore my projects at [nguyen-is-me.vercel.app](https://nguyen-is-me.vercel.app/)
 
 - 📫 Reach me at **knnnguyen21012003@gmail.com**
 
-- 📄 Learn more about my experiences at [jeremy-tran.vercel.app](https://jeremy-tran.vercel.app/)
+- 📄 Learn more about my experiences at [nguyen-is-me.vercel.app](https://nguyen-is-me.vercel.app/)
 
 ### Connect with me 🔗 :
 
