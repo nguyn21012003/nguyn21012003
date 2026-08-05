@@ -1,3 +1,12 @@
+<div align="center">
+  <a href="https://discord.com/users/888074145210978374">
+    <img src="https://lanyard.cnrad.dev/api/888074145210978374?showDisplayName=true&idleMessage=Physics%20student" alt="Discord Presence"/>
+  </a>
+</div>
+---
+
+## 🚀 About Me
+
 <h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
     <a>I'm Nguyen</a>
