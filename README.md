@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://discord.com/users/888074145210978374">
-    <img src="https://lanyard.cnrad.dev/api/888074145210978374?showDisplayName=true&idleMessage=Physics%20student" alt="Discord Presence"/>
-  </a>
+  <a href="https://discord.com/users/888074145210978374"><img src="https://lanyard.cnrad.dev/api/888074145210978374?hideActivity=true&showDisplayName=true" /></a>
 </div>
 ---
 
